@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/refs/heads/main/attack-module.lua"))()
 local Y = game.Players;
 local d = Y.LocalPlayer;
 local R = d.Character.HumanoidRootPart;
@@ -235,7 +236,7 @@ local O = workspace:FindFirstChild("Rocks");
 if O then
 	O:Destroy();
 end;
-Lunix = (function()
+gay = (function()
 		local Y = game:GetService("Lighting");
 		local d = Y:FindFirstChild("LightingLayers");
 		if d and (game:GetService("Lighting") and game:GetService("Lighting")) then
@@ -893,7 +894,7 @@ end;
 spawn(function()
 	while task.wait() do
 		pcall(function()
-			if _G.SailBoat_Hydra or _G.WardenBoss or _G.AutoFactory or _G.HighestMirage or _G.HCM or _G.PGB or _G.Leviathan1 or _G.UPGDraco or _G.Complete_Trials or _G.TpDraco_Prehis or _G.BuyDrago or _G.AutoFireFlowers or _G.DT_Uzoth or _G.AutoBerry or _G.Prehis_Find or _G.Prehis_Skills or _G.Prehis_DB or _G.Prehis_DE or _G.FarmBlazeEM or _G.Dojoo or _G.CollectPresent or _G.AutoLawKak or _G.TpLab or _G.AutoPhoenixF or _G.AutoFarmChest or _G.AutoHytHallow or _G.LongsWord or _G.BlackSpikey or _G.AutoHolyTorch or _G.TrainDrago or _G.AutoSaber or _G.FarmMastery_Dev or _G.CitizenQuest or _G.AutoEctoplasm or _G.KeysRen or _G.Auto_Rainbow_Haki or _G.obsFarm or _G.AutoBigmom or _G.Doughv2 or _G.AuraBoss or _G.Raiding or _G.Auto_Cavender or _G.TpPly or _G.Bartilo_Quest or _G.Level or _G.FarmEliteHunt or _G.AutoZou or _G.AutoFarm_Bone or (getgenv()).AutoMaterial or _G.CraftVM or _G.FrozenTP or _G.TPDoor or _G.AcientOne or _G.AutoFarmNear or _G.AutoRaidCastle or _G.DarkBladev3 or _G.AutoFarmRaid or _G.Auto_Cake_Prince or _G.Addealer or _G.TPNpc or _G.TwinHook or _G.FindMirage or _G.FarmChestM or _G.Shark or _G.TerrorShark or _G.Piranha or _G.MobCrew or _G.SeaBeast1 or _G.FishBoat or _G.AutoPole or _G.AutoPoleV2 or _G.Auto_SuperHuman or _G.AutoDeathStep or _G.Auto_SharkMan_Karate or _G.Auto_Electric_Claw or _G.AutoDragonTalon or _G.Auto_Def_DarkCoat or _G.Auto_God_Human or _G.Auto_Tushita or _G.AutoMatSoul or _G.AutoKenVTWO or _G.AutoSerpentBow or _G.AutoFMon or _G.Auto_Soul_Guitar or _G.TPGEAR or _G.AutoSaw or _G.AutoTridentW2 or _G.Auto_StartRaid or _G.AutoEvoRace or _G.AutoGetQuestBounty or _G.MarinesCoat or _G.TravelDres or _G.Defeating or _G.DummyMan or _G.Auto_Yama or _G.Auto_SwanGG or _G.SwanCoat or _G.AutoEcBoss or _G.Auto_Mink or _G.Auto_Human or _G.Auto_Skypiea or _G.Auto_Fish or _G.CDK_TS or _G.CDK_YM or _G.CDK or _G.AutoFarmGodChalice or _G.AutoFistDarkness or _G.AutoMiror or _G.Teleport or _G.AutoKilo or _G.AutoGetUsoap or _G.Praying or _G.TryLucky or _G.AutoColShad or _G.AutoUnHaki or _G.Auto_DonAcces or _G.AutoRipIngay or _G.DracoV3 or _G.DracoV1 or _G.SailBoats or NextIs or _G.FarmGodChalice or _G.IceBossRen or senth or senth2 or _G.Lvthan or _G.beasthunter or _G.DangerLV or _G.Relic123 or _G.tweenKitsune or _G.Collect_Ember or _G.AutofindKitIs or _G.snaguine or _G.TwFruits or _G.tweenKitShrine or _G.Tp_LgS or _G.Tp_MasterA or _G.tweenShrine or _G.FarmMastery_G or _G.FarmMastery_S then
+			if _G.SailBoat_Hydra or _G.WardenBoss or _G.AutoFactory or _G.HighestMirage or _G.HCM or _G.PGB or _G.Leviathan1 or _G.UPGDrago or _G.Complete_Trials or _G.TpDrago_Prehis or _G.BuyDrago or _G.AutoFireFlowers or _G.DT_Uzoth or _G.AutoBerry or _G.Prehis_Find or _G.Prehis_Skills or _G.Prehis_DB or _G.Prehis_DE or _G.FarmBlazeEM or _G.Dojoo or _G.CollectPresent or _G.AutoLawKak or _G.TpLab or _G.AutoPhoenixF or _G.AutoFarmChest or _G.AutoHytHallow or _G.LongsWord or _G.BlackSpikey or _G.AutoHolyTorch or _G.TrainDrago or _G.AutoSaber or _G.FarmMastery_Dev or _G.CitizenQuest or _G.AutoEctoplasm or _G.KeysRen or _G.Auto_Rainbow_Haki or _G.obsFarm or _G.AutoBigmom or _G.Doughv2 or _G.AuraBoss or _G.Raiding or _G.Auto_Cavender or _G.TpPly or _G.Bartilo_Quest or _G.Level or _G.FarmEliteHunt or _G.AutoZou or _G.AutoFarm_Bone or (getgenv()).AutoMaterial or _G.CraftVM or _G.FrozenTP or _G.TPDoor or _G.AcientOne or _G.AutoFarmNear or _G.AutoRaidCastle or _G.DarkBladev3 or _G.AutoFarmRaid or _G.Auto_Cake_Prince or _G.Addealer or _G.TPNpc or _G.TwinHook or _G.FindMirage or _G.FarmChestM or _G.Shark or _G.TerrorShark or _G.Piranha or _G.MobCrew or _G.SeaBeast1 or _G.FishBoat or _G.AutoPole or _G.AutoPoleV2 or _G.Auto_SuperHuman or _G.AutoDeathStep or _G.Auto_SharkMan_Karate or _G.Auto_Electric_Claw or _G.AutoDragonTalon or _G.Auto_Def_DarkCoat or _G.Auto_God_Human or _G.Auto_Tushita or _G.AutoMatSoul or _G.AutoKenVTWO or _G.AutoSerpentBow or _G.AutoFMon or _G.Auto_Soul_Guitar or _G.TPGEAR or _G.AutoSaw or _G.AutoTridentW2 or _G.Auto_StartRaid or _G.AutoEvoRace or _G.AutoGetQuestBounty or _G.MarinesCoat or _G.TravelDres or _G.Defeating or _G.DummyMan or _G.Auto_Yama or _G.Auto_SwanGG or _G.SwanCoat or _G.AutoEcBoss or _G.Auto_Mink or _G.Auto_Human or _G.Auto_Skypiea or _G.Auto_Fish or _G.CDK_TS or _G.CDK_YM or _G.CDK or _G.AutoFarmGodChalice or _G.AutoFistDarkness or _G.AutoMiror or _G.Teleport or _G.AutoKilo or _G.AutoGetUsoap or _G.Praying or _G.TryLucky or _G.AutoColShad or _G.AutoUnHaki or _G.Auto_DonAcces or _G.AutoRipIngay or _G.DragoV3 or _G.DragoV1 or _G.SailBoats or NextIs or _G.FarmGodChalice or _G.IceBossRen or senth or senth2 or _G.Lvthan or _G.beasthunter or _G.DangerLV or _G.Relic123 or _G.tweenKitsune or _G.Collect_Ember or _G.AutofindKitIs or _G.snaguine or _G.TwFruits or _G.tweenKitShrine or _G.Tp_LgS or _G.Tp_MasterA or _G.tweenShrine or _G.FarmMastery_G or _G.FarmMastery_S then
 				y = true;
 				if not d.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
 					local Y = Instance.new("BodyVelocity");
@@ -906,7 +907,7 @@ spawn(function()
 					local Y = Instance.new("Highlight");
 					Y.Name = "highlight";
 					Y.Enabled = true;
-					Y.FillColor = Color3.fromRGB(0, 255, 255);
+					Y.FillColor = Color3.fromRGB(120, 50, 200);
 					Y.OutlineColor = Color3.fromRGB(255, 255, 255);
 					Y.FillTransparency = .5;
 					Y.OutlineTransparency = .2;
@@ -1419,17 +1420,17 @@ function CheckQuest()
 			CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, .965929627, 0, -0.258804798, 0, 1, 0, .258804798, 0, .965929627);
 			CFrameMon = CFrame.new(-187.33015441895, 86.239875793457, 6013.513671875);
 		elseif MyLevel >= 1575 and MyLevel <= 1599 then
-			Mon = "Draco Crew Warrior";
+			Mon = "Dragon Crew Warrior";
 			LevelQuest = 1;
-			NameQuest = "DracoCrewQuest";
-			NameMon = "Draco Crew Warrior";
+			NameQuest = "DragonCrewQuest";
+			NameMon = "Dragon Crew Warrior";
 			CFrameQuest = CFrame.new(6738.9614257812, 127.81645965576, -713.51147460938);
 			CFrameMon = CFrame.new(6920.7143554688, 56.1559715271, -942.50445556641);
 		elseif MyLevel >= 1600 and MyLevel <= 1624 then
-			Mon = "Draco Crew Archer";
-			NameQuest = "DracoCrewQuest";
+			Mon = "Dragon Crew Archer";
+			NameQuest = "DragonCrewQuest";
 			LevelQuest = 2;
-			NameMon = "Draco Crew Archer";
+			NameMon = "Dragon Crew Archer";
 			CFrameQuest = CFrame.new(6738.9614257812, 127.81645965576, -713.51147460938);
 			CFrameMon = CFrame.new(6817.9125976562, 484.80444335938, 513.41412353516);
 		elseif MyLevel >= 1625 and MyLevel <= 1649 then
@@ -1710,37 +1711,37 @@ local rz;
 local az;
 local wz = {};
 local Fz = {
-		["Border Color"] = Color3.fromRGB(0, 255, 255),
+		["Border Color"] = Color3.fromRGB(120, 50, 200),
 		["Click Effect Color"] = Color3.fromRGB(230, 230, 230),
 		["Setting Icon Color"] = Color3.fromRGB(230, 230, 230),
-		["Logo Image"] = "rbxassetid://91636648121784",
+		["Logo Image"] = "rbxassetid://106/106718047055054",
 		["Search Icon Color"] = Color3.fromRGB(255, 255, 255),
-		["Search Icon Highlight Color"] = Color3.fromRGB(0, 255, 255),
+		["Search Icon Highlight Color"] = Color3.fromRGB(120, 50, 200),
 		["GUI Text Color"] = Color3.fromRGB(230, 230, 230),
 		["Text Color"] = Color3.fromRGB(230, 230, 230),
 		["Placeholder Text Color"] = Color3.fromRGB(178, 178, 178),
-		["Title Text Color"] = Color3.fromRGB(0, 255, 255),
+		["Title Text Color"] = Color3.fromRGB(120, 50, 200),
 		["Background Main Color"] = Color3.fromRGB(15, 15, 15),
 		["Background 1 Color"] = Color3.fromRGB(28, 28, 34),
 		["Background 1 Transparency"] = .25,
 		["Background 2 Color"] = Color3.fromRGB(90, 90, 90),
 		["Background 3 Color"] = Color3.fromRGB(20, 20, 20),
 		["Background Image"] = "",
-		["Page Selected Color"] = Color3.fromRGB(0, 255, 255),
-		["Section Text Color"] = Color3.fromRGB(0, 255, 255),
-		["Section Underline Color"] = Color3.fromRGB(0, 255, 255),
-		["Toggle Border Color"] = Color3.fromRGB(0, 255, 255),
+		["Page Selected Color"] = Color3.fromRGB(120, 50, 200),
+		["Section Text Color"] = Color3.fromRGB(120, 50, 200),
+		["Section Underline Color"] = Color3.fromRGB(120, 50, 200),
+		["Toggle Border Color"] = Color3.fromRGB(120, 50, 200),
 		["Toggle Checked Color"] = Color3.fromRGB(230, 230, 230),
 		["Toggle Desc Color"] = Color3.fromRGB(185, 185, 185),
 		["Button Color"] = Color3.fromRGB(35, 35, 35),
 		["Label Color"] = Color3.fromRGB(35, 35, 35),
 		["Dropdown Icon Color"] = Color3.fromRGB(230, 230, 230),
-		["Dropdown Selected Color"] = Color3.fromRGB(0, 255, 255),
-		["Dropdown Selected Check Color"] = Color3.fromRGB(0, 255, 255),
-		["Textbox Highlight Color"] = Color3.fromRGB(0, 255, 255),
-		["Box Highlight Color"] = Color3.fromRGB(0, 255, 255),
+		["Dropdown Selected Color"] = Color3.fromRGB(120, 50, 200),
+		["Dropdown Selected Check Color"] = Color3.fromRGB(120, 50, 200),
+		["Textbox Highlight Color"] = Color3.fromRGB(120, 50, 200),
+		["Box Highlight Color"] = Color3.fromRGB(120, 50, 200),
 		["Slider Line Color"] = Color3.fromRGB(45, 22, 67),
-		["Slider Highlight Color"] = Color3.fromRGB(0, 255, 255),
+		["Slider Highlight Color"] = Color3.fromRGB(120, 50, 200),
 		["Tween Animation 1 Speed"] = Rz and 0 or .25,
 		["Tween Animation 2 Speed"] = Rz and 0 or .5,
 		["Tween Animation 3 Speed"] = Rz and 0 or .1,
@@ -1827,7 +1828,7 @@ local gz = Instance.new("ImageButton", nz.HideGui);
 gz.BorderSizePixel = 0;
 gz.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
 gz.AnchorPoint = Vector2.new(0, 1);
-gz.Image = "rbxassetid://91636648121784";
+gz.Image = "rbxassetid://106718047055054";
 gz.Size = UDim2.new(0, 50, 0, 50);
 gz.BorderColor3 = Color3.fromRGB(0, 0, 0);
 gz.Position = UDim2.new(.01, 0, .99, 0);
@@ -1839,7 +1840,7 @@ local zz = Instance.new("UICorner", gz);
 zz.CornerRadius = UDim.new(1, 8);
 local iz = Instance.new("UIStroke", gz);
 iz.Thickness = .6;
-iz.Color = Color3.fromRGB(0, 255, 255);
+iz.Color = Color3.fromRGB(120, 50, 200);
 function nz.Getcolor(Y)
 	return { math.floor(Y.r * 255), math.floor(Y.g * 255), math.floor(Y.b * 255) };
 end;
@@ -1894,7 +1895,7 @@ local Uz = function(Y)
 		local A = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[2]);
 		local u = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[3]);
 		local g = D .. ("," .. (A .. ("," .. u)));
-		K.Text = "<font color=\"rgb(" .. (g .. (")\">Lunix Hub</font> " .. dz.TitleNameNoti));
+		K.Text = "<font color=\"rgb(" .. (g .. (")\">Gay Hub</font> " .. dz.TitleNameNoti));
 		K.Name = "TextLabelNoti";
 		K.Parent = w;
 		K.BackgroundColor3 = Color3.fromRGB(230, 230, 230);
@@ -1919,7 +1920,7 @@ local Uz = function(Y)
 		I.BackgroundColor3 = Color3.fromRGB(230, 230, 230);
 		I.BackgroundTransparency = 1.0;
 		I.Size = UDim2.new(1, 0, 1, 0);
-		I.Image = "rbxassetid://91636648121784";
+		I.Image = "rbxassetid://129781592728096";
 		I.ImageRectOffset = Vector2.new(284, 4);
 		I.ImageRectSize = Vector2.new(24, 24);
 		I.ImageColor3 = dz.UIColor["Search Icon Color"];
@@ -2017,7 +2018,7 @@ function Kz.CreateMain(Y)
 	r.Position = UDim2.new(.5, 0, .5, 0);
 	r.Selectable = true;
 	r.Size = UDim2.new(1, 30, 1, 30);
-	r.Image = "rbxassetid://91636648121784";
+	r.Image = "rbxassetid://129781592728096";
 	r.ScaleType = Enum.ScaleType.Slice;
 	r.SliceCenter = Rect.new(15, 15, 175, 175);
 	r.SliceScale = 1.3;
@@ -2028,7 +2029,7 @@ function Kz.CreateMain(Y)
 	local U = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[2]);
 	local C = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[3]);
 	local v = i .. ("," .. (U .. ("," .. C)));
-	M.Text = "<font color=\"rgb(" .. (v .. ")\">Lunix Hub </font> : Blox Fruits");
+	M.Text = "<font color=\"rgb(" .. (v .. ")\">the_real_Lunix Hub </font> : Blox Fruits");
 	z = Instance.new("ImageLabel");
 	z.Name = "MainContainer";
 	z.Parent = Q;
@@ -2041,7 +2042,7 @@ function Kz.CreateMain(Y)
 	m.Transparency = .8;
 	dz.ReadyForGuiLoaded = true;
 	local y = Instance.new("ImageLabel", z);
-	y.Image = "rbxassetid://91636648121784";
+	y.Image = "rbxassetid://131407996827614";
 	y.BackgroundTransparency = 1;
 	y.ImageTransparency = .8;
 	y.Position = UDim2.new(0, -50, 0, -80);
@@ -2074,7 +2075,7 @@ function Kz.CreateMain(Y)
 	F.BackgroundTransparency = 1.0;
 	F.Position = UDim2.new(0, 5, 0, dz.T1 and 5 or 0);
 	F.Size = UDim2.new(0, dz.T1 and 30 or 25, 0, dz.T1 and 15 or 25);
-	F.Image = "rbxassetid://91636648121784";
+	F.Image = "rbxassetid://106718047055054";
 	M.Name = "TextLabelMain";
 	M.Parent = w;
 	M.BackgroundColor3 = Color3.fromRGB(230, 230, 230);
@@ -2091,7 +2092,7 @@ function Kz.CreateMain(Y)
 	local c = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[2]);
 	local H = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[3]);
 	local S = b .. ("," .. (c .. ("," .. H)));
-	M.Text = "<font color=\"rgb(" .. (S .. ")\">Lunix Hub </font> : Blox Fruits");
+	M.Text = "<font color=\"rgb(" .. (S .. ")\">the_real_Lunix Hub </font> : Blox Fruits");
 	K.Name = "Background1";
 	K.Parent = g;
 	K.Position = UDim2.new(0, 5, 0, 0);
@@ -2177,7 +2178,7 @@ function Kz.CreateMain(Y)
 	L.BackgroundTransparency = 1.0;
 	L.Position = UDim2.new(.5, 0, .5, 0);
 	L.Size = UDim2.new(0, 16, 0, 16);
-	L.Image = "rbxassetid://91636648121784";
+	L.Image = "rbxassetid://8154282545";
 	L.ImageColor3 = dz.UIColor["Search Icon Color"];
 	P.Name = "Search Button";
 	P.Parent = k;
@@ -2366,7 +2367,7 @@ function Kz.CreateMain(Y)
 		y.BackgroundTransparency = 1.0;
 		y.Position = UDim2.new(.5, 0, .5, 0);
 		y.Size = UDim2.new(0, 16, 0, 16);
-		y.Image = "rbxassetid://91636648121784";
+		y.Image = "rbxassetid://8154282545";
 		y.ImageColor3 = dz.UIColor["Search Icon Color"];
 		b.Name = "Search Button";
 		b.Parent = m;
@@ -2587,7 +2588,7 @@ function Kz.CreateMain(Y)
 				R.Position = UDim2.new(.5, 0, .5, 0);
 				R.Size = UDim2.new(1, -4, 1, -4);
 				R.ZIndex = 2;
-				R.Image = "rbxassetid://91636648121784";
+				R.Image = "rbxassetid://3926307971";
 				R.ImageRectOffset = Vector2.new(84, 44);
 				R.ImageRectSize = Vector2.new(36, 36);
 				R.ImageTransparency = 1;
@@ -2599,7 +2600,7 @@ function Kz.CreateMain(Y)
 				Q.Position = UDim2.new(.5, 0, .5, 0);
 				Q.Size = UDim2.new(1, -4, 1, -4);
 				Q.ZIndex = 2;
-				Q.Image = "rbxassetid://91636648121784";
+				Q.Image = "rbxassetid://3926307971";
 				Q.ImageRectOffset = Vector2.new(564, 44);
 				Q.ImageRectSize = Vector2.new(36, 36);
 				Q.ImageTransparency = 0;
@@ -2688,12 +2689,12 @@ function Kz.CreateMain(Y)
 				K.BackgroundTransparency = 1.0;
 				K.Position = UDim2.new(1, -5, .5, 3);
 				K.Size = UDim2.new(0, 25, 0, 25);
-				K.Image = "rbxassetid://91636648121784";
+				K.Image = "rbxassetid://4552505888";
 				K.ImageColor3 = dz.UIColor["Toggle Border Color"];
 				n.Name = "check";
 				n.Parent = K;
 				n.AnchorPoint = Vector2.new(.5, .5);
-				n.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				n.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				n.BackgroundTransparency = 0;
 				n.Position = UDim2.new(.5, 0, .5, 0);
 				n.Size = UDim2.new(0, 0, 0, 0);
@@ -2810,7 +2811,7 @@ function Kz.CreateMain(Y)
 				r.BackgroundTransparency = 1;
 				r.SelectionOrder = 0;
 				r.SizeConstraint = Enum.SizeConstraint.RelativeXY;
-				r.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				r.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				local a = Instance.new("Frame", r);
 				a.LayoutOrder = 0;
 				a.BorderMode = Enum.BorderMode.Outline;
@@ -2857,7 +2858,7 @@ function Kz.CreateMain(Y)
 				n.Draggable = false;
 				n.RichText = false;
 				n.SelectionOrder = 0;
-				n.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				n.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				n.BorderMode = Enum.BorderMode.Outline;
 				n.TextStrokeColor3 = Color3.new(0, 0, 0);
 				n.AnchorPoint = Vector2.new(0, 0);
@@ -2891,7 +2892,7 @@ function Kz.CreateMain(Y)
 				I.Style = Enum.FrameStyle.Custom;
 				I.Position = UDim2.new(1, -8, .5, 0);
 				I.SelectionOrder = 0;
-				I.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				I.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				local W = Instance.new("UICorner", I);
 				W.CornerRadius = UDim.new(0, 12);
 				local N = Instance.new("UIGradient", I);
@@ -2917,7 +2918,7 @@ function Kz.CreateMain(Y)
 				D.SelectionOrder = 0;
 				D.TextYAlignment = Enum.TextYAlignment.Center;
 				D.TextScaled = false;
-				D.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				D.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				D.BorderMode = Enum.BorderMode.Outline;
 				D.Selectable = true;
 				D.AnchorPoint = Vector2.new(0, 0);
@@ -2969,7 +2970,7 @@ function Kz.CreateMain(Y)
 				g.ImageTransparency = .55000001192093;
 				g.ImageColor3 = Color3.new(1, 1, 1);
 				g.AnchorPoint = Vector2.new(.5, .5);
-				g.Image = "rbxassetid://91636648121784";
+				g.Image = "rbxassetid://5028857084";
 				g.ImageRectOffset = Vector2.new(0, 0);
 				g.ImageRectSize = Vector2.new(0, 0);
 				g.ZIndex = 0;
@@ -2987,7 +2988,7 @@ function Kz.CreateMain(Y)
 				g.Position = UDim2.new(.5, 0, .5, 0);
 				g.SliceScale = 1;
 				g.BorderSizePixel = 1;
-				g.BackgroundColor3 = Color3.fromRGB(0, 255, 255);
+				g.BackgroundColor3 = Color3.fromRGB(120, 50, 200);
 				D.MouseButton1Click:Connect(function()
 					Q();
 				end);
@@ -3148,7 +3149,7 @@ function Kz.CreateMain(Y)
 				z.BorderColor3 = Color3.fromRGB(27, 42, 53);
 				z.Position = UDim2.new(1, -6, .5, 0);
 				z.Size = UDim2.new(0, 15, 0, 15);
-				z.Image = "rbxassetid://91636648121784";
+				z.Image = "rbxassetid://6954383209";
 				z.ImageColor3 = dz.UIColor["Dropdown Icon Color"];
 				i.Name = "DropdownButton";
 				i.Parent = u;
@@ -3294,7 +3295,7 @@ function Kz.CreateMain(Y)
 							K.Position = UDim2.new(1, 0, .5, 0);
 							K.Size = UDim2.new(0, 25, 0, 25);
 							K.ZIndex = 2;
-							K.Image = "rbxassetid://91636648121784";
+							K.Image = "rbxassetid://3926305904";
 							K.ImageColor3 = dz.UIColor["Dropdown Selected Check Color"];
 							K.ImageRectOffset = Vector2.new(312, 4);
 							K.ImageRectSize = Vector2.new(24, 24);
@@ -9842,7 +9843,7 @@ spawn(function()
 		end);
 	end;
 end);
-local OF = Sz.CreateSection("Dojo Quest & Drago Race");
+local OF = Sz.CreateSection("Dojo Quest & Draco Race");
 OF.CreateToggle({
 	Title = "Auto Dojo Trainer",
 	Description = "turn on for do dojo belt quest white to black",
@@ -10074,7 +10075,7 @@ spawn(function()
 		end;
 	end;
 end);
-local fF = Sz.CreateSection("Drago Trial");
+local fF = Sz.CreateSection("Draco Trial");
 GetQuestDracoLevel = function()
 		local Y = { [1] = { NPC = "Dragon Wizard", Command = "Upgrade" } };
 		return (Q.Modules.Net:FindFirstChild("RF/InteractDragonQuest")):InvokeServer(unpack(Y));
@@ -10084,13 +10085,13 @@ fF.CreateToggle({
 	Description = "",
 	Default = false,
 	Callback = function(Y)
-		_G.UPGDrago = Y;
+		_G.UPGDraco = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
 		pcall(function()
-			if _G.UPGDrago then
+			if _G.UPGDraco then
 				if GetQuestDracoLevel() == false then
 					return nil;
 				elseif GetQuestDracoLevel() == true then
@@ -10107,24 +10108,24 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Auto Drago (V1)",
+	Title = "Auto Draco (V1)",
 	Description = "turn on for auto quest1 auto prehistoric event + collect dragon eggs",
 	Default = false,
 	Callback = function(Y)
-		_G.DragoV1 = Y;
+		_G.DracoV1 = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
 		pcall(function()
-			if _G.DragoV1 then
+			if _G.DracoV1 then
 				if GetM("Dragon Egg") <= 0 then
 					repeat
 						wait();
 						_G.Prehis_Find = true;
 						_G.Prehis_Skills = true;
 						_G.Prehis_DE = true;
-					until not _G.DragoV1 or GetM("Dragon Egg") >= 1;
+					until not _G.DracoV1 or GetM("Dragon Egg") >= 1;
 					_G.Prehis_Find = false;
 					_G.Prehis_Skills = false;
 					_G.Prehis_DE = false;
@@ -10134,7 +10135,7 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Auto Drago (V2)",
+	Title = "Auto Draco (V2)",
 	Description = "turn on for auto kill Forest Pirate & Collect fireflower",
 	Default = false,
 	Callback = function(Y)
@@ -10174,23 +10175,23 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Auto Drago (V3)",
+	Title = "Auto Draco (V3)",
 	Description = "turn on for sea event kill terror shark",
 	Default = false,
 	Callback = function(Y)
-		_G.DragoV3 = Y;
+		_G.DracoV3 = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
 		pcall(function()
-			if _G.DragoV3 then
+			if _G.DracoV3 then
 				repeat
 					wait();
 					_G.DangerSc = "Lv Infinite";
 					_G.SailBoats = true;
 					_G.TerrorShark = true;
-				until not _G.DragoV3;
+				until not _G.DracoV3;
 				_G.DangerSc = "Lv 1";
 				_G.SailBoats = false;
 				_G.TerrorShark = false;
@@ -10199,7 +10200,7 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Auto Relic Drago Trial [Beta]",
+	Title = "Auto Relic Draco Trial [Beta]",
 	Description = "turn on for auto trial v4 you have to COLLECT RELIC by your self",
 	Default = false,
 	Callback = function(Y)
@@ -10250,17 +10251,17 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Auto Train Drago v4",
-	Description = "turn on for training Drago race v4 + auto upgrade tier",
+	Title = "Auto Train Draco v4",
+	Description = "turn on for training Draco race v4 + auto upgrade tier",
 	Default = false,
 	Callback = function(Y)
-		_G.TrainDrago = Y;
+		_G.TrainDraco = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
 		pcall(function()
-			if _G.TrainDrago then
+			if _G.TrainDraco then
 				local Y = { "Venomous Assailant", "Hydra Enforcer" };
 				for R = 1, #Y, 1 do
 					if (d.Character:FindFirstChild("RaceEnergy")).Value == 1 then
@@ -10272,8 +10273,8 @@ spawn(function()
 						if d then
 							repeat
 								wait();
-								f.Kill(d, _G.TrainDrago);
-							until _G.TrainDrago == false or d.Humanoid.Health <= 0 or not d.Parent;
+								f.Kill(d, _G.TrainDraco);
+							until _G.TrainDraco == false or d.Humanoid.Health <= 0 or not d.Parent;
 						else
 							_tp(CFrame.new(4620.6157226562, 1002.2954711914, 399.08688354492));
 						end;
@@ -10284,16 +10285,16 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Tween to Drago Trials",
+	Title = "Tween to Draco Trials",
 	Description = "",
 	Default = false,
 	Callback = function(Y)
-		_G.TpDrago_Prehis = Y;
+		_G.TpDraco_Prehis = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
-		if _G.TpDrago_Prehis then
+		if _G.TpDraco_Prehis then
 			local Y = workspace.Map.PrehistoricIsland:FindFirstChild("TrialTeleport");
 			if Y and Y:IsA("Part") then
 				_tp(CFrame.new(Y.Position));
@@ -10302,16 +10303,16 @@ spawn(function()
 	end;
 end);
 fF.CreateToggle({
-	Title = "Swap Drago Race",
+	Title = "Swap Draco Race",
 	Description = "",
 	Default = false,
 	Callback = function(Y)
-		_G.BuyDrago = Y;
+		_G.BuyDraco = Y;
 	end,
 });
 spawn(function()
 	while wait(T) do
-		if _G.BuyDrago then
+		if _G.BuyDraco then
 			pcall(function()
 				if ((CFrame.new(5814.4272460938, 1208.3267822266, 884.57855224609)).Position - R.Position).Magnitude >= 300 then
 					_tp(CFrame.new(5814.4272460938, 1208.3267822266, 884.57855224609));
@@ -11404,22 +11405,22 @@ HakiClorEsp = function()
 		if ColorEsp == true then
 			for Y, R in pairs(Q.NPCs:GetChildren()) do
 				if R.Name == "Barista Cousin" then
-					if not workspace:FindFirstChild("Lunix") then
-						Lunix = Instance.new("Part");
-						Lunix.Name = "Lunix";
-						Lunix.Transparency = 1;
-						Lunix.Size = Vector3.new(1, 1, 1);
-						Lunix.Anchored = true;
-						Lunix.CanCollide = false;
-						Lunix.Parent = workspace;
-						Lunix.CFrame = R.HumanoidRootPart.CFrame;
-					elseif workspace:FindFirstChild("Lunix") then
-						if not Lunix:FindFirstChild("NameEsp") then
-							local Y = Instance.new("BillboardGui", Lunix);
+					if not workspace:FindFirstChild("Gay") then
+						Gay = Instance.new("Part");
+						Gay.Name = "Gay";
+						Gay.Transparency = 1;
+						Gay.Size = Vector3.new(1, 1, 1);
+						Gay.Anchored = true;
+						Gay.CanCollide = false;
+						Gay.Parent = workspace;
+						Gay.CFrame = R.HumanoidRootPart.CFrame;
+					elseif workspace:FindFirstChild("Gay") then
+						if not Gay:FindFirstChild("NameEsp") then
+							local Y = Instance.new("BillboardGui", Gay);
 							Y.Name = "NameEsp";
 							Y.ExtentsOffset = Vector3.new(0, 1, 0);
 							Y.Size = UDim2.new(1, 200, 1, 30);
-							Y.Adornee = Lunix;
+							Y.Adornee = Gay;
 							Y.AlwaysOnTop = true;
 							local d = Instance.new("TextLabel", Y);
 							d.Font = "Code";
@@ -11431,14 +11432,14 @@ HakiClorEsp = function()
 							d.TextStrokeTransparency = .5;
 							d.TextColor3 = Color3.fromRGB(80, 245, 245);
 						else
-							Lunix.NameEsp.TextLabel.Text = R.Name .. ("   \n" .. (nq((d.Character.Head.Position - R.HumanoidRootPart.Position).Magnitude / 3) .. " M"));
+							Gay.NameEsp.TextLabel.Text = R.Name .. ("   \n" .. (nq((d.Character.Head.Position - R.HumanoidRootPart.Position).Magnitude / 3) .. " M"));
 						end;
 					end;
 				end;
 			end;
 		else
-			if workspace:FindFirstChild("Lunix") then
-				(workspace:FindFirstChild("Lunix")):Destroy();
+			if workspace:FindFirstChild("Gay") then
+				(workspace:FindFirstChild("Gay")):Destroy();
 			end;
 		end;
 	end;
@@ -12489,7 +12490,7 @@ Sq.CreateButton({ Title = "Remove Sky Fog", Callback = function()
 	end });
 local oq = jz.CreateSection("Configure - God");
 oq.CreateButton({ Title = "Rain Fruits (Client)", Callback = function()
-		for Y, R in pairs((game:GetObjects("rbxassetid://91636648121784"))[1]:GetChildren()) do
+		for Y, R in pairs((game:GetObjects("rbxassetid://14759368201"))[1]:GetChildren()) do
 			R.Parent = game.Workspace.Map;
 			R:MoveTo(d.Character.PrimaryPart.Position + Vector3.new(math.random(-50, 50), 100, math.random(-50, 50)));
 			if R.Fruit:FindFirstChild("AnimationController") then
